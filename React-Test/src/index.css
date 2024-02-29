@@ -1,0 +1,92 @@
+.action1{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.action2{
+  border: 2px solid black;
+  padding: 3rem;
+  background-color: rgb(219, 213, 213);
+}
+.action3{
+  /* display: flex;
+  justify-content: end; */
+  border: none;
+  color: white;
+  background-color: black;
+}
+.action4{
+  display: flex;
+  justify-content: space-between;
+}
+.action5{
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: aquamarine;
+  font-size:  2rem;
+}
+.action6{
+  display: flex;
+}
+.action7{
+  list-style-type: none;
+  text-decoration: none;
+}
+.action8{
+  height: 32rem;
+  background-color: bisque;
+  width: 10rem;
+}
+.nav a:link,
+.nav a:visited {
+  text-decoration: none;
+  color: var(--color-light--2);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+ul li{
+  margin-top: 5rem;
+}
+.action10{
+  background-color: cornflowerblue;
+    width: 75.5rem;
+    height: 32rem;
+}
+button{
+  margin: 0.6rem;
+  border: none;
+  color: white;
+  background-color:darkblue
+}
+.action11{
+  margin: 2rem;
+}
+.action12{
+  background-color: darkgrey;
+  width: 74rem;
+  display: flex;
+  justify-content: center;
+}
+.action13{
+  display: flex;
+  justify-content: center;
+}
+input{
+  margin: 0.6rem;
+}
+.action14{
+  display: block;
+}
+.action15{
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  background-color:dodgerblue;
+}
+.action16{
+  text-align: center;
+  background-color: darkgrey;
+  width: 75.5rem;
+}
